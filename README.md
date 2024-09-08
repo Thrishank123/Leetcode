@@ -32,7 +32,5 @@ The repository is organized by problem names. Each file corresponds to a solutio
 If you have any better solutions or find a mistake, feel free to contribute!
 
 ## Contact
-For any queries, you can reach me at [Your Email].
+For any queries, you can reach me at thrishankkarri8@gmail.com.
 
-## License
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
